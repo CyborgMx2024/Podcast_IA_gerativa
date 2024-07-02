@@ -1,4 +1,4 @@
-# Podcast_IA_gerativa
+# Podcast_IA_gerativa >> https://youtu.be/8DgKJq_QLh0?si=uHjporkggluA_Vk6
 Podcast criado usando ferramentas de IA gerativa
 # Prompt imagem no leonardo.ai 
 
