@@ -4,7 +4,7 @@ Podcast criado usando ferramentas de IA gerativa
 
 Crie uma imagem para o podcast "ChappieCast: Revolução Robótica". A imagem deve transmitir a ideia de inovação e futurismo, com elementos tecnológicos avançados e robôs modernos. Use uma paleta de cores metálicas e neon, destacando robôs estilizados e detalhes de circuitos. Inclua também o nome do podcast em uma fonte futurista, com o subtítulo "Inovações e Dicas para o Futuro da Tecnologia" em uma fonte menor e elegante. A imagem deve ser dinâmica e atrativa, refletindo o entusiasmo e a vanguarda da robótica.
 
-# Prompt do texto ultilizado 
+# Prompt  ultilizado para criar o roteiro
 
 você é um roteirista de podcast, e vamos criar um podcast de tecnologia focado em robótica
 você é um roteirista de podcast, e vamos criar um podcast de tecnologia focado em robótica
